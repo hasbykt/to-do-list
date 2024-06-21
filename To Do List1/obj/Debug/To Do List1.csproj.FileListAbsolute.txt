@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Downloads\Pemvis\To Do List1\To Do List1\bin\Debug\To Do List1.exe.config
+C:\Users\Lenovo\Downloads\Pemvis\To Do List1\To Do List1\bin\Debug\To Do List1.exe
+C:\Users\Lenovo\Downloads\Pemvis\To Do List1\To Do List1\bin\Debug\To Do List1.pdb
+C:\Users\Lenovo\Downloads\Pemvis\To Do List1\To Do List1\obj\Debug\To Do List1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\Pemvis\To Do List1\To Do List1\obj\Debug\To Do List1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Downloads\Pemvis\To Do List1\To Do List1\obj\Debug\To_Do_List1.ToDoList.resources
+C:\Users\Lenovo\Downloads\Pemvis\To Do List1\To Do List1\obj\Debug\To_Do_List1.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\Pemvis\To Do List1\To Do List1\obj\Debug\To Do List1.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\Pemvis\To Do List1\To Do List1\obj\Debug\To Do List1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Pemvis\To Do List1\To Do List1\obj\Debug\To Do List1.exe
+C:\Users\Lenovo\Downloads\Pemvis\To Do List1\To Do List1\obj\Debug\To Do List1.pdb
